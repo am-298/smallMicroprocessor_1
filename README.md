@@ -28,7 +28,7 @@ Each module represents a distinct hardware block, allowing clear separation of f
 | `program_data.mem` | Memory file containing the instruction program for execution |
 
 ---
-
+<img src="images/Screenshot 2025-12-05 181219.png" width="800">
 ## ⚙️ Key Features
 
 - **Custom 32-bit instruction format**
@@ -48,7 +48,7 @@ Each module represents a distinct hardware block, allowing clear separation of f
 3. **Execute** — ALU performs the operation  
 4. **Memory Access / Writeback** — Data is written to registers or memory  
 5. **Next Instruction** — PC increments or jumps based on control signal  
-
+<img src="images/Screenshot 2025-12-05 181804.png" width="800">
 ---
 
 ## 🧠 Supported Instruction Categories
